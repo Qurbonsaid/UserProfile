@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="name">Qurbonsaid</string>
+    <string name="birthday">28.02.2004</string>
+    <string name="country">Uzbekistan</string>
+    <string name="picture_description">User Picture</string>
+</resources>
